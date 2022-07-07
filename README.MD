@@ -1,3 +1,3 @@
 # Spinaker Training 
 
-Spinaker Training Repo
+Spinaker Training Repository
