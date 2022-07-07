@@ -1,3 +1,3 @@
 # Spinaker Training 
 
-Spinaker Training Repository
+Spinaker Training Repository, this is mainly used for testing
